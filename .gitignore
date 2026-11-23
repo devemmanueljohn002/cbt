@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.env
+.env.example
+.env.*.local
+backend/.env
+backend/.venv/
+backend/data/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.pytest_cache/
+*.py[cod]
+*.db
+*.sqlite3
